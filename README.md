@@ -72,7 +72,7 @@ After installing the script using any of these methods, you can access it by goi
 ![image](https://user-images.githubusercontent.com/109564316/230351766-d2d2c89a-86b1-490a-ab30-7925644c4fb9.png)
 
 4. Use the "Select Output Folder" button to choose a folder where the processed images will be saved.
-5. Use the "Select Mockup Folder" button to select the PSD mockup files you want to use.
+5. Use the "Select Mockup Folder" button to select the PSD mockup files you want to use. (Make sure that Smart Object is on Layer 1)
 
 ![image](https://user-images.githubusercontent.com/109564316/230353319-d851f2c7-3427-4b0b-9b2e-2c0edcfec0ea.png)
 
