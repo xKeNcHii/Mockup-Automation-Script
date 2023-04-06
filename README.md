@@ -26,12 +26,19 @@ Photoshop Image Processor is a script designed to streamline the workflow of des
 
 ## Installation
 
-1. Download the ImageProcessor.jsx file from this repository.
-2. Open Adobe Photoshop.
-3. Go to Edit > Preferences > Plug-ins & Scratch Disks.
-4. Check the box for Additional Plug-Ins Folder and click Choose.
-5. Browse to the folder where you downloaded the ImageProcessor.jsx file and select it.
-6. Restart Photoshop.
+Method 1:
+
+1. Locate the downloaded .jsx file on your computer.
+2. Drag and drop the .jsx file onto the Photoshop icon in your dock or applications folder.
+3. The script will be automatically run.
+
+Method 2:
+
+1. Open Photoshop.
+2. Go to File > Scripts > Browse.
+3. Navigate to the downloaded .jsx file on your computer and select it.
+4. Click "Open".
+5. The script will be automatically run.
 
 ## Usage
 
