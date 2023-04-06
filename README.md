@@ -1,5 +1,7 @@
 # Mockup Automation Script (Photoshop Image Processor)
 
+![Before after minimal skincare Instagram post](https://user-images.githubusercontent.com/109564316/230358716-92d9846b-8b23-489f-9dfa-76aeefa6ef44.png)
+
 This repository contains a Photoshop script to automate the process of placing images into mockups and saving the results. The script provides a user-friendly interface to select input and output folders, as well as mockup files.
 
 ## Table of Contents
