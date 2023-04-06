@@ -49,7 +49,7 @@ There are a few ways to install the downloaded .jsx file in Photoshop:
 
 ### Method 3 (Recommended):
 
-1. Place the `<script_name>.jsx` file in the Photoshop Scripts folder:
+1. Place the `auto_mockup.jsx` file in the Photoshop Scripts folder:
 - OS X: `/Applications/Adobe Photoshop [version]/Presets/Scripts/`
 - Windows (32 bit): `C:\Program Files (x86)\Adobe\Adobe Photoshop [version]\Presets\Scripts\`
 - Windows (64 bit): `C:\Program Files\Adobe\Adobe Photoshop [version] (64 Bit)\Presets\Scripts\`
@@ -69,6 +69,8 @@ After installing the script using any of these methods, you can access it by goi
 5. Use the "Select Mockup Folder" button to select the PSD mockup files you want to use.
 6. Click the "Process Images" button to start processing.
 7. When processing is complete, an alert will appear.
+![image](https://user-images.githubusercontent.com/109564316/230352903-5d312bcc-951c-4486-879b-f3777c1b01b4.png)
+
 
 ## Compatibility
 
