@@ -16,6 +16,7 @@ This repository contains a Photoshop script to automate the process of placing i
   - [Compatibility](#compatibility)
   - [Contributing](#contributing)
   - [License](#license)
+  - [Example](#example)
 
 ## Introduction
 
@@ -93,3 +94,27 @@ We welcome contributions to improve the script or add new features. Please feel 
 ## License
 
 This project is licensed under the MIT License. See the LICENSE file for more information.
+
+## Example
+To demonstrate the capabilities of the Photoshop Image Processor script, here's an example using a set of product images and a mockup:
+
+Input Images
+Here are the product images that we want to place in the mockup:
+
+Input Image 1
+Input Image 2
+Input Image 3
+
+Mockup
+Here's the mockup that we'll use to place the product images:
+
+Mockup Image
+
+Output Images
+After running the Photoshop Image Processor script, here are the output images that we get:
+
+Output Image 1
+Output Image 2
+Output Image 3
+
+As you can see, the script has automatically placed the product images in the mockup and saved the results in the specified output folder. This can save designers and photographers a lot of time and effort when working with multiple images and mockups.
