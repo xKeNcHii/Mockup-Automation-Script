@@ -1,7 +1,3 @@
-// Set up input and output folders
-var inputFolder = "C:\\Users\\Xuan Qi\\Desktop\\InfiniteDesigns\\Images";
-var outputFolder = "C:\\Users\\Xuan Qi\\Desktop\\InfiniteDesigns\\Out";
-
 // Create a new window
 var win = new Window("dialog", "Process Images");
 
