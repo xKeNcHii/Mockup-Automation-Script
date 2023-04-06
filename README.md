@@ -55,6 +55,8 @@ There are a few ways to install the downloaded .jsx file in Photoshop:
 - Windows (64 bit): `C:\Program Files\Adobe\Adobe Photoshop [version] (64 Bit)\Presets\Scripts\`
 
 After installing the script using any of these methods, you can access it by going to `File > Scripts` in Photoshop.
+![image](https://user-images.githubusercontent.com/109564316/230352280-50e83b18-c67b-43bb-91e0-080c95ab9d11.png)
+
 
 ## Usage
 
