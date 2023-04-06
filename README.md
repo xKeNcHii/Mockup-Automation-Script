@@ -1,16 +1,21 @@
-#  Photoshop Mockup Automation Script
+# Photoshop Image Processor
 
 This repository contains a Photoshop script to automate the process of placing images into mockups and saving the results. The script provides a user-friendly interface to select input and output folders, as well as mockup files.
 
 ## Table of Contents
 
-- [Introduction](#introduction)
-- [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Compatibility](#compatibility)
-- [Contributing](#contributing)
-- [License](#license)
+- [Photoshop Image Processor](#photoshop-image-processor)
+  - [Table of Contents](#table-of-contents)
+  - [Introduction](#introduction)
+  - [Features](#features)
+  - [Installation](#installation)
+    - [Method 1](#method-1)
+    - [Method 2](#method-2)
+    - [Method 3 (Recommended):](#method-3-recommended)
+  - [Usage](#usage)
+  - [Compatibility](#compatibility)
+  - [Contributing](#contributing)
+  - [License](#license)
 
 ## Introduction
 
@@ -26,24 +31,35 @@ Photoshop Image Processor is a script designed to streamline the workflow of des
 
 ## Installation
 
-Method 1:
+There are a few ways to install the downloaded .jsx file in Photoshop:
+
+### Method 1:
 
 1. Locate the downloaded .jsx file on your computer.
 2. Drag and drop the .jsx file onto the Photoshop icon in your dock or applications folder.
-3. The script will be automatically run.
+3. The script will be automatically installed and available in the `File > Scripts` menu in Photoshop.
 
-Method 2:
+### Method 2:
 
 1. Open Photoshop.
-2. Go to File > Scripts > Browse.
+2. Go to `File > Scripts > Browse`.
 3. Navigate to the downloaded .jsx file on your computer and select it.
 4. Click "Open".
-5. The script will be automatically run.
+5. The script will be installed and available in the `File > Scripts` menu in Photoshop.
+
+### Method 3 (Recommended):
+
+1. Place the `<script_name>.jsx` file in the Photoshop Scripts folder:
+- OS X: `/Applications/Adobe Photoshop [version]/Presets/Scripts/`
+- Windows (32 bit): `C:\Program Files (x86)\Adobe\Adobe Photoshop [version]\Presets\Scripts\`
+- Windows (64 bit): `C:\Program Files\Adobe\Adobe Photoshop [version] (64 Bit)\Presets\Scripts\`
+
+After installing the script using any of these methods, you can access it by going to `File > Scripts` in Photoshop.
 
 ## Usage
 
 1. Open Photoshop.
-2. Go to File > Scripts > ImageProcessor.
+2. Go to `File > Scripts > ImageProcessor`.
 3. A dialog window will appear. Use the "Select Input Folder" button to choose a folder containing the images you want to process.
 4. Use the "Select Output Folder" button to choose a folder where the processed images will be saved.
 5. Use the "Select Mockup Folder" button to select the PSD mockup files you want to use.
