@@ -1,4 +1,4 @@
-# Photoshop Image Processor
+# Mockup Automation Script (Photoshop Image Processor)
 
 This repository contains a Photoshop script to automate the process of placing images into mockups and saving the results. The script provides a user-friendly interface to select input and output folders, as well as mockup files.
 
