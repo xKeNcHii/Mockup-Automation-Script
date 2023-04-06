@@ -98,20 +98,20 @@ This project is licensed under the MIT License. See the LICENSE file for more in
 ## Example
 To demonstrate the capabilities of the Photoshop Image Processor script, here's an example using a set of product images and a mockup:
 
-Input Images
+# Input Images
 Here are the product images that we want to place in the mockup:
 
 ![image](https://user-images.githubusercontent.com/109564316/230354697-a8cb2b44-9dcc-4533-b2fd-5e6ca3d2ca16.png)
 ![image](https://user-images.githubusercontent.com/109564316/230354757-069f25d0-3ba0-453a-9470-cd8dd8758333.png)
 
-Mockup
+# Mockup
 Here's the mockup that we'll use to place the product images:
 
 [![image](https://user-images.githubusercontent.com/109564316/230355009-1972d514-5e3e-4091-9abb-faa7537912a3.png)](https://www.anthonyboyd.graphics/mockups/modern-dark-poster-mockup/)
 [![image](https://user-images.githubusercontent.com/109564316/230355092-7d2e83a6-e6d8-4f25-add5-476ba1430c7d.png)](https://www.anthonyboyd.graphics/mockups/modern-poster-mockup-vol-2/)
 
 
-Output Images
+# Output Images
 After running the Photoshop Image Processor script, here are the output images that we get:
 ![image](https://user-images.githubusercontent.com/109564316/230355525-c669fead-92b5-4ea8-9712-f2f008867040.png)
 ![image](https://user-images.githubusercontent.com/109564316/230355554-f5f20586-bbb1-441e-b1c9-f1aeeadd9b38.png)
