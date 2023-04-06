@@ -101,20 +101,21 @@ To demonstrate the capabilities of the Photoshop Image Processor script, here's 
 Input Images
 Here are the product images that we want to place in the mockup:
 
-Input Image 1
-Input Image 2
-Input Image 3
+![image](https://user-images.githubusercontent.com/109564316/230354697-a8cb2b44-9dcc-4533-b2fd-5e6ca3d2ca16.png)
+![image](https://user-images.githubusercontent.com/109564316/230354757-069f25d0-3ba0-453a-9470-cd8dd8758333.png)
 
 Mockup
 Here's the mockup that we'll use to place the product images:
 
-Mockup Image
+[![image](https://user-images.githubusercontent.com/109564316/230355009-1972d514-5e3e-4091-9abb-faa7537912a3.png)](https://www.anthonyboyd.graphics/mockups/modern-dark-poster-mockup/)
+[![image](https://user-images.githubusercontent.com/109564316/230355092-7d2e83a6-e6d8-4f25-add5-476ba1430c7d.png)](https://www.anthonyboyd.graphics/mockups/modern-poster-mockup-vol-2/)
+
 
 Output Images
 After running the Photoshop Image Processor script, here are the output images that we get:
-
-Output Image 1
-Output Image 2
-Output Image 3
+![image](https://user-images.githubusercontent.com/109564316/230355525-c669fead-92b5-4ea8-9712-f2f008867040.png)
+![image](https://user-images.githubusercontent.com/109564316/230355554-f5f20586-bbb1-441e-b1c9-f1aeeadd9b38.png)
+![image](https://user-images.githubusercontent.com/109564316/230355579-4060b36c-9a44-4439-8d5d-d53080802608.png)
+![image](https://user-images.githubusercontent.com/109564316/230355600-6018b43b-45ea-4839-947e-81aa8ac5fe74.png)
 
 As you can see, the script has automatically placed the product images in the mockup and saved the results in the specified output folder. This can save designers and photographers a lot of time and effort when working with multiple images and mockups.
