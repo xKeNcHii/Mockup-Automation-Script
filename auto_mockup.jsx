@@ -38,7 +38,7 @@ var mockupFolderBtn = mockupPanel.add("button", undefined, "Select Mockup Folder
 var mockupFolderText = mockupPanel.add("edittext", undefined, "");
 mockupFolderText.alignment = "fill";
 mockupFolderBtn.onClick = function() {
-  mockupFiles = File.openDialog("Select the PSD mockup files:", "PSD files:*.psdt", true);
+  mockupFiles = File.openDialog("Select the PSD mockup files:", "PSD files:*.psd;*.psdt", true);
 };
 
 // Add process button
