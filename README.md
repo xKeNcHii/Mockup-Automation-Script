@@ -55,6 +55,7 @@ There are a few ways to install the downloaded .jsx file in Photoshop:
 - Windows (64 bit): `C:\Program Files\Adobe\Adobe Photoshop [version] (64 Bit)\Presets\Scripts\`
 
 After installing the script using any of these methods, you can access it by going to `File > Scripts` in Photoshop.
+
 ![image](https://user-images.githubusercontent.com/109564316/230352280-50e83b18-c67b-43bb-91e0-080c95ab9d11.png)
 
 
@@ -62,13 +63,18 @@ After installing the script using any of these methods, you can access it by goi
 
 1. Open Photoshop.
 2. Go to `File > Scripts > auto_mockup`.
+
 ![image](https://user-images.githubusercontent.com/109564316/230352512-7624cd6f-9f37-4267-86a1-28272364e6f9.png)
 4. A dialog window will appear. Use the "Select Input Folder" button to choose a folder containing the images you want to process.
+
 ![image](https://user-images.githubusercontent.com/109564316/230351766-d2d2c89a-86b1-490a-ab30-7925644c4fb9.png)
 4. Use the "Select Output Folder" button to choose a folder where the processed images will be saved.
 5. Use the "Select Mockup Folder" button to select the PSD mockup files you want to use.
-6. Click the "Process Images" button to start processing.
-7. When processing is complete, an alert will appear.
+
+![image](https://user-images.githubusercontent.com/109564316/230353319-d851f2c7-3427-4b0b-9b2e-2c0edcfec0ea.png)
+7. Click the "Process Images" button to start processing.
+8. When processing is complete, an alert will appear.
+
 ![image](https://user-images.githubusercontent.com/109564316/230352903-5d312bcc-951c-4486-879b-f3777c1b01b4.png)
 
 
