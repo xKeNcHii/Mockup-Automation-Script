@@ -61,8 +61,9 @@ After installing the script using any of these methods, you can access it by goi
 ## Usage
 
 1. Open Photoshop.
-2. Go to `File > Scripts > ImageProcessor`.
-3. A dialog window will appear. Use the "Select Input Folder" button to choose a folder containing the images you want to process.
+2. Go to `File > Scripts > auto_mockup`.
+![image](https://user-images.githubusercontent.com/109564316/230352512-7624cd6f-9f37-4267-86a1-28272364e6f9.png)
+4. A dialog window will appear. Use the "Select Input Folder" button to choose a folder containing the images you want to process.
 ![image](https://user-images.githubusercontent.com/109564316/230351766-d2d2c89a-86b1-490a-ab30-7925644c4fb9.png)
 4. Use the "Select Output Folder" button to choose a folder where the processed images will be saved.
 5. Use the "Select Mockup Folder" button to select the PSD mockup files you want to use.
